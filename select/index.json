@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "トウシンダイ",
+  "base_artist": "ReoNa",
+  "createdAt": "2025-12-12T15:13:55.557614Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "トウシンダイ",
+      "artist": "ReoNa",
+      "has_synced": true,
+      "path": "select/01_トウシンダイ_ReoNa.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "トウシンダイ(ReoNa ONE-MAN Concert 2023「ピルグリム」～3.6 day 逃げて逢おうね～)",
+      "artist": "ReoNa",
+      "has_synced": true,
+      "path": "select/02_トウシンダイ(ReoNa_ONE-MAN_Concert_2023「ピルグリム」~3.6_day_逃げて逢おうね~)_ReoNa.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "トウシンダイ -Acoustic ver.- \"unknown ver. Live at PACIFICO YOKOHAMA 2021.04.29\" (Live)",
+      "artist": "ReoNa",
+      "has_synced": true,
+      "path": "select/03_トウシンダイ_-Acoustic_ver.-__unknown_ver._Live_at_PACIFICO_YOKOHAMA_2021.04.29__(Live_ReoNa.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "トウシンダイ",
+      "artist": "ReoNa",
+      "has_synced": false,
+      "path": "select/pl_01_トウシンダイ_ReoNa.txt"
+    }
+  ]
+}
